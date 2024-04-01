@@ -9,11 +9,12 @@ struct DetailAlamat {
 struct Mahasiswa {
     string nim;
     string nama;
-    string alamat;
+    DetailAlamat alamat;
     string umur;
 
 };
 
 int main() {
     Mahasiswa mhs;
+    cout << "Nomor Mahasiswa"
 }
