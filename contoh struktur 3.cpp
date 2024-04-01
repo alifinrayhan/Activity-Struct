@@ -22,9 +22,9 @@ int main() {
     getline(cin , mhs.nama);
 
     cout << "Alamat Mahasiswa : ";
-    cout << "\n\t Nama Desa : ";
+    cout << "\n \t Nama Desa : ";
     cin >> mhs.alamat.desa;
-    cout << "\n\t Nama Kota : ";
+    cout << "\n \t Nama Kota : ";
     cin >> mhs.alamat.kota;
 
 
