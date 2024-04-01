@@ -1,4 +1,4 @@
-#include <iosStream>
+#include <iostream>
 using namespace std;
 
 struct Mahasiswa {
@@ -12,4 +12,6 @@ int main() {
     Mahasiswa mhs;
     cout << "Nomor Mahasiswa : ";
     cin >> mhs.nim;
+    cout << "Nama Mahasiswa : ";
+    
 }
