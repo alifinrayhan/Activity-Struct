@@ -29,7 +29,8 @@ int main() {
         cout << "\t Nama Desa : ";
         cin >> mhs[i].alamat.desa;
         cout << "\t Nama Kota : ";
-        
+        cin >> mhs[i].alamat.kota;
+
         
     
     }
