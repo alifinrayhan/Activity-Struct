@@ -26,6 +26,7 @@ int main() {
 
 
         cout << "Alamat mahasiswa : " << endl;
+        cout << "\t Nama Desa : ";
         
     
     }
